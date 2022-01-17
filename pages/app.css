@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://gateway.pinata.cloud/ipfs/QmdE5tRbhsKnYbdggsPEDZqU2KiRYVtsxiFyrNFg3ZSiuS/ETH.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+a {
+    color: aqua;
+    transition: all 0.2s;
+}
+
+a:hover {
+    opacity: 0.6;
+}
